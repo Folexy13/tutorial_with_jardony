@@ -1,0 +1,5 @@
+How to push to github
+
+
+1) git init - it initialize an empty repo
+2) git add .- the dot means, add all new changes in the current directory, other option is -a, add all new changes in just that directory
